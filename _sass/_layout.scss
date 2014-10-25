@@ -1,0 +1,60 @@
+body {
+    background-color: $grey-color;
+}
+
+.site-header {
+    background-color: $brand-color;
+    .site-title {
+        color: $background-color;
+        font-size: 1.5em;
+        .icon {
+            font-size: 0.75em;
+            .homepage & {
+                display: none;
+            }
+        }
+    }
+    .wrapper {
+        max-width: 1000px;
+        margin: 0 auto;
+        padding: 5px 10px;
+    }
+}
+
+.page-content {
+    background-color: $background-color;
+    min-height: 60%;
+    .wrapper {
+        margin: 0 auto;
+        padding: 10px;
+        max-width: 880px;
+    }
+}
+
+
+
+.site-footer {
+    text-align: center;
+    .links {
+        margin: 0;
+        li {
+            margin: 20px;
+            display: inline-block;
+        }
+        a {
+            color: $grey-color-light;
+            border-radius: 30px;
+            display: inline-block;
+            font-size: $base-font-size * 2.5;
+            background-color: $grey-color-dark;
+            width: 60px;
+            height: 60px;
+            text-align: center;
+            vertical-align: middle;
+            &:hover {
+                color: $grey-color-dark;
+                background-color: transparent;
+            }
+        }
+    }
+}
