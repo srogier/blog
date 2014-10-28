@@ -22,7 +22,7 @@ J'ai profité de l'achat d'un nouveau bureau pour me créer un vrai espace de tr
 Avant de se lancer dans les achats, deux mesures doivent être effectuées : les hauteurs idéales en position assise et debout. 
  
 Pour la première, j'ai repris ce que j'avais l'habitude d'avoir : suffisamment haut pour que les genoux ne soient pas pliés. 
-Pour la seconde, il faut mettre ses bras à la perpendiculaire de son corps et mesurer la hauteur par rapport au sol : cela vous donnera la hauteur de votre poste de travail debout.
+Pour la seconde, il faut mettre ses bras à la perpendiculaire de son corps au niveau des coudes et mesurer la hauteur par rapport au sol : cela vous donnera la hauteur de votre poste de travail debout.
  
 ## La fabrication
  
@@ -58,7 +58,7 @@ Par contre, en fin de journée, cela tire un peu sur les jambes. D'où l'intér�
  
 ## Amélioration continue
 
-Sans aller jusqu'à ajouter un [tapis roulant](http://en.wikipedia.org/wiki/Treadmill_desk) pour marcher pendant le travail, le contact avec le sol est un des points sur lequel je vais tenter d'apporter des améliorations. En basket pendant ces sessions, cela n'empêche pas la voûte plantaire de tirer au bout d'un certain temps. J'essaierai donc de tester en ajoutant un tapis de sol afin d'apporter un peu plus d'amorti.
+Sans aller jusqu'à ajouter un [tapis roulant](http://en.wikipedia.org/wiki/Treadmill_desk) pour marcher pendant le travail, le contact avec le sol est un des points sur lequel je vais tenter d'apporter des améliorations. En baskets pendant ces sessions, cela n'empêche pas la voûte plantaire de tirer au bout d'un certain temps. J'essaierai donc de tester en ajoutant un tapis de sol afin d'apporter un peu plus d'amorti.
 
 Dans tous les cas, je n'ai qu'un conseil à donner, si vous voulez tester : allez-y. Cette expérience m'a coûté moins de 25€ pour les deux tables, les équerres et la colle. Si vous êtes à la recherche d'exemples, le site
 [IKEAHackers](http://www.ikeahackers.net) référence plusieurs contributions. Si vous avez un gros budget, vous pouvez vous tourner vers des bureaux à hauteur réglables : IKEA (encore eux) propose depuis peu des [châssis pour environ 500€]((http://www.ikea.com/fr/fr/catalog/products/90255252/)) avec hauteur réglable électriquement.
