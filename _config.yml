@@ -5,3 +5,4 @@ url: "srogier.fr"
 ga_ua: UA-56115303-1
 
 markdown: kramdown
+highlighter: pygments
