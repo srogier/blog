@@ -118,6 +118,11 @@ blockquote {
     > :last-child {
         margin-bottom: 0;
     }
+
+    strong {
+        font-style: normal;
+        font-weight: bold;
+    }
 }
 
 
@@ -127,10 +132,10 @@ blockquote {
  */
 pre,
 code {
-    font-size: 15px;
+    font-size: 0.9em;
+    line-height: 1.5em;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
-    background-color: #eef;
 }
 
 code {
@@ -140,6 +145,9 @@ code {
 pre {
     padding: 8px 12px;
     overflow-x: scroll;
+
+    word-break: break-all;
+    white-space: pre-wrap;
 
     > code {
         border: 0;
