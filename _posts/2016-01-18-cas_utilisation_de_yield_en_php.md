@@ -227,7 +227,7 @@ foreach ($this->getProductsGenerator(
 
 ## Et PHP 7 dans tout ça ?
 
-Pour ceux qui ne le savent pas encore, PHP 7 est sorti depuis le début du mois de décembre et apporte de nombreuses évolutions. Les générateurs n'ont pas été oublié parmi la liste des nouveautés et des évolutions, notamment suite à cette (RFC)[https://wiki.php.net/rfc/generator-delegation].
+Pour ceux qui ne le savent pas encore, PHP 7 est sorti depuis le début du mois de décembre et apporte de nombreuses évolutions. Les générateurs n'ont pas été oublié parmi la liste des nouveautés et des évolutions, notamment suite à cette [RFC](https://wiki.php.net/rfc/generator-delegation).
 
 Il est désormais possible de déléguer le générateur à un autre sous ensemble en faisant les yield en cascade, de manière à mieux découper et séparer le code, comme le montre ce portage du précédent exemple.
 
