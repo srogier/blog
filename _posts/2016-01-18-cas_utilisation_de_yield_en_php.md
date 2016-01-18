@@ -3,7 +3,7 @@ layout: post
 title: "Cas d'utilisation de yield en PHP"
 ---
 
-Je profite de la semaine des générateurs organisée par [Pascal Martin](https://twitter.com/pascal_martin) pour vous faire un retour sur l'usage de cette fonctionnalité super pratique sur [decitre.fr](http://www.decitre.fr).
+Je profite de la semaine des générateurs organisée par [Pascal Martin](https://twitter.com/pascal_martin) pour vous faire un retour sur l'usage sur [decitre.fr](http://www.decitre.fr) de cette fonctionnalité super pratique.
 
 Depuis juin 2013 et l'arrivée PHP 5.5, nous avons la possibilité d'utiliser les générateurs dans nos codes.
 
