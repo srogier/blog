@@ -4,7 +4,7 @@ title: 'Liens conférence "On a migré nos sites en full HTTPS !"'
 ---
 
 
-Voici les différentes sources et outils mentionnés lors de la conférence "On a migré nos sites en full HTTPS !"
+Voici les différentes sources et outils mentionnés lors de la conférence "[On a migré nos sites en full HTTPS !](https://srogier.github.io/presentation-migration-full-https)"
 
 
 ## Retours d'expérience des autres équipes techniques
